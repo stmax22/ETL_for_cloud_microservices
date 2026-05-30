@@ -1,0 +1,4 @@
+.env
+.mypy_cache/
+values.yaml
+Kubernetes_release.txt
